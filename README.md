@@ -39,14 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Vashu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vashucodes\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vashucodes\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 
 * 💻 GitHub: [@Vashucodes](https://github.com/Vashucodes)
